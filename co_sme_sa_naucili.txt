@@ -1,0 +1,10 @@
+Dozvedeli sme sa o verziovani pri vyvoji.
+Vytvorili sme si konto na Github, ktoré sme prepojili s Gitkraken.
+Vytvorili sme klon nášho repozitára na lokálny disk.
+Skúsili vytvoriť súbor a ten poslať a pridať do spoločného miesta.
+Súbory, ktoré nechcem pushnúť sa dajú odignorovať v .gitignore.
+Medzi verziami alebo históriou zmien sa dá prepínať a sledovať, čo konkrétne sa zmenilo.
+Keď viacerí upravujú jeden súbor, môže dôjsť ku konfliktom, ktoré treba vyriešiť.
+Rieši sa to tým, že sa rozhodnem, čo chcem nechať prípadne nechám obidve zmeny a súbor tým opravím.
+Presunom skrytej zložky .git to vyzerá, že GitKraken nevie nájsť môj repozitár.
+.git je zložka, ktorá musí byť na správnom mieste, aby všetko fungovalo lokálne aj na Githube :)
